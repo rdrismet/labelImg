@@ -1,0 +1,93 @@
+{
+    "shortcuts": [
+        {
+            "name": "QuitApplication",
+            "label": "Quit App",
+            "value": "Ctrl+D",
+            "isModifiable": true
+        },
+        {
+            "name": "Save",
+            "label": "Save",
+            "value": "Ctrl+S",
+            "isModifiable": true
+        },
+        {
+            "name": "DeleteImage",
+            "label": "Delete Image",
+            "value": "Delete",
+            "isModifiable": true
+        },
+        {
+            "name": "DeleteBox",
+            "label": "Delete Box",
+            "value": "Ctrl+Q",
+            "isModifiable": true
+        },
+        {
+            "name": "CreateBox",
+            "label": "Create Box",
+            "value": "Ctrl+Q",
+            "isModifiable": true
+        },
+        {
+            "name": "NextImage",
+            "label": "Next Image",
+            "value": "Ctrl+Q",
+            "isModifiable": true
+        },
+        {
+            "name": "PreviousImage",
+            "label": "Previous Image",
+            "value": "Ctrl+Q",
+            "isModifiable": true
+        },
+        {
+            "name": "ZoomIn",
+            "label": "Zoom In",
+            "value": "Ctrl++",
+            "isModifiable": true
+        },
+        {
+            "name": "ZoomOut",
+            "label": "Zoom Out",
+            "value": "Ctrl+-",
+            "isModifiable": true
+        },
+        {
+            "name": "OpenFile",
+            "label": "Open File",
+            "value": "Ctrl+O",
+            "isModifiable": false
+        },
+        {
+            "name": "VerifyImage",
+            "label": "Verify Image",
+            "value": "Space",
+            "isModifiable": false
+        },
+        {
+            "name": "DuplicateBox",
+            "label": "Duplicate Box",
+            "value": "Ctrl+D",
+            "isModifiable": false
+        }
+    ],
+    "predefinedClasses": [
+        "dog",
+        "person",
+        "cat",
+        "tv",
+        "car",
+        "meatballs",
+        "marinara sauce",
+        "tomato soup",
+        "chicken noodle soup",
+        "french onion soup",
+        "chicken breast",
+        "ribs",
+        "pulled pork",
+        "hamburger",
+        "cavity"
+    ]
+}
